@@ -16,7 +16,7 @@ Ce tableau de bord interactif analyse la performance énergétique du parc socia
 Les données proviennent de données ouvertes françaises sur les logements sociaux par département.
 
 ## Auteur
-[Votre Nom] - Étudiant en Data Science
+AKPABLIN AMON NATHAN BOAZ - Étudiant en Data Science
 
 ## Licence
 Code sous licence MIT. Données sous licence ouverte.
