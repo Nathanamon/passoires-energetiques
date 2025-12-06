@@ -7,7 +7,7 @@ from utils.viz import create_gauge_chart
 def show_conclusions(data):
     """Affiche les conclusions et recommandations"""
     
-    st.markdown('<h2 class="sub-header">🎯 Conclusions & Priorités d\'Action</h2>', 
+    st.markdown('<h2 class="sub-header">Conclusions & Priorités d\'Action</h2>', 
                 unsafe_allow_html=True)
     
     # Forcer styles lisibles pour .info-box et .warning-box
@@ -186,7 +186,7 @@ def show_conclusions(data):
     
     with tab3:
         st.markdown("""
-        ### 💰 Impact Économique et Social Estimé
+        ### Impact Économique et Social Estimé
         
         **Investissements nécessaires :**
         - **Rénovation complète** : 40.000€/logement en moyenne
